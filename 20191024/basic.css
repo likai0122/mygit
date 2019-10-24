@@ -1,6 +1,7 @@
 :root
 {
-	--back_color:red
+	--back_color:red;
+	--heartbeat: 0s;
 }
 
 body {
