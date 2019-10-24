@@ -44,6 +44,9 @@ div.grid2 {
 
 div.grid3 {
     background-color: blue;
+	animation-name: ani_grid1;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
 }
 
 div.grid4 {
